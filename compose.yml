@@ -1,0 +1,5 @@
+---
+services :
+      image: varshithadevops/myrepo:myimage
+      ports:
+        -"8989:80"
